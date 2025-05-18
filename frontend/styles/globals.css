@@ -1,0 +1,9 @@
+/* globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #f8f9fa; /* Цвет фона */
+  --foreground: #212529; /* Цвет текста */
+}
